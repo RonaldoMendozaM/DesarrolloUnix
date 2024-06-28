@@ -17,6 +17,7 @@ Correr
 
 Acontinuacion
 Inicializar
+
     ./socketNet 8080  
 
 En otra terminal debes inciar el comando para ingresar al servidor
