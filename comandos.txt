@@ -1,0 +1,7 @@
+getInfo
+
+getNumberOfPartitions
+
+getCurrentKernelVersion
+
+sshdRunning
